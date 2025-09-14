@@ -11,7 +11,7 @@ As a Home Assistant enthusiast, I've been using it extensively for numerous home
 
 I wanted an additional security layer to authenticate users and restrict access to my family. The solution? Setting up OAuth authentication using the popular and proven [oauth2-proxy](https://oauth2-proxy.github.io/oauth2-proxy/) project.
 
-<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/6d9f088c-ea1d-4009-b9b0-56634e2a0d61" /></p>
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/c5183f8a-ce43-47d5-9d3b-855e243af7c3" /></p>
 
 ## Initial Setup
 
@@ -77,7 +77,7 @@ GitHub will expose the primary email of the logged user. You just have to update
 
 The solution came from [this comment](https://github.com/home-assistant/iOS/issues/1872#issuecomment-2405811395).
 
-<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/05d6aa7b-868f-495a-ace4-f012c31bb0ec" /></p>
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/99d5a693-41b1-4d68-a24d-d2c31616a5ff" /></p>
 
 Although you may get an error connecting your public hostname, you can ignore them, connect using your local instance ip, and then go to the companion app settings to set your public host back.
 
