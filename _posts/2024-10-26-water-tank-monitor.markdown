@@ -9,7 +9,7 @@ excerpt: "Building a compact water level monitoring system with custom PCB desig
 
 I'm excited to share my latest DIY project: a **Water Tank Monitor** that I've been working on over the past few months. This compact device monitors water levels in my 5m³ tank, displays data on an OLED screen, and integrates seamlessly with my Home Assistant setup via Zigbee.
 
-<p align="center"><img height="500" alt="Water Tank Monitor PCB" src="https://private-user-images.githubusercontent.com/941891/491906626-4b886068-c466-4954-a8f3-babb81e3cb05.png" /></p>
+<p align="center"><img height="500" alt="Water Tank Monitor PCB" src="{{ '/assets/images/watertankmonitor.png' | relative_url }}" /></p>
 
 The goal was to create a compact, self-contained device that would monitor water levels using an ultrasonic sensor, display real-time data on a 0.91" OLED screen, log data via Zigbee for smart home integration, and fit within a Legrand Mosaic obturateur for a clean, professional look.
 
